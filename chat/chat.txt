@@ -1,0 +1,17 @@
+vangog: hello
+vangog: one
+vangog: two
+vangog: uno
+asdf: asdf
+asdf: fsafsf
+asdf: fsdfsdfsdfsfsd
+asdf: f
+asdf: sdfsdf
+asdf: sdfsf
+ruslan: vsem privet
+ruslan: sadfsa
+ruslan: sdfasf
+ruslan: ddfsfdsdfsdf
+ruslan: asdfsadf
+mario: я марио
+ганц: glkasd
